@@ -1,0 +1,29 @@
+		.fbf{
+			color: yellow;
+		}
+		
+		.title_top
+		{
+			font-size: 40px;
+			font-family: helvlight;
+			font-style: normal;
+			position: absolute;
+			top:25%;
+			left: 10%;
+		}
+		.definition_top
+		{
+			font-size: 20px;
+			font-family: helvlight;
+			font-style: normal;
+			position: absolute;
+			top:50%;
+			left:10%;
+		}
+		.btn
+		{
+			font-family: helvlight;
+			position: absolute;
+			top:90%;
+			left: 10%;
+		}
