@@ -62,7 +62,7 @@
 					<li class="lili"><a href="#" class="a_nav">John Cyrus Guevarra</a></li>
 					<li class="lili"><a class="nav-link text-warning dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-user-alt text-light fa-2x"></i></a>
 				        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-				          <a class="dropdown-item" href="#">View Profile</a>
+				          <a class="dropdown-item" href='http://localhost/project/crud/admin_default_view_profile.php'>View Profile</a>
 				          <a class="dropdown-item" href='http://localhost/project/crud/btstrp.php'>Log out</a>
 				    </li>
 					
